@@ -13,5 +13,5 @@
 #' @export
 hello <- function(name)
 {
-
+ paste('Hello,',name)
 }
