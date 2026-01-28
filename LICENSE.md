@@ -1,4 +1,4 @@
-# MIT License
+
 
 Copyright (c) 2026 hello-r-amenarif authors
 
